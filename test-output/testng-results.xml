@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-24T18:43:12 BRT" name="Default suite" finished-at="2021-01-24T18:43:43 BRT" duration-ms="31480">
+    <groups>
+    </groups>
+    <test started-at="2021-01-24T18:43:12 BRT" name="Default test" finished-at="2021-01-24T18:43:43 BRT" duration-ms="31480">
+      <class name="io.swagger.petstore.TestAPIPetStore">
+        <test-method is-config="true" signature="createRequestSpecification()[pri:0, instance:io.swagger.petstore.TestAPIPetStore@11bd0f3b]" started-at="2021-01-24T18:43:12 BRT" name="createRequestSpecification" finished-at="2021-01-24T18:43:13 BRT" duration-ms="950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRequestSpecification -->
+        <test-method is-config="true" signature="createResponseSpecification()[pri:0, instance:io.swagger.petstore.TestAPIPetStore@11bd0f3b]" started-at="2021-01-24T18:43:13 BRT" name="createResponseSpecification" finished-at="2021-01-24T18:43:13 BRT" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createResponseSpecification -->
+        <test-method signature="postUser()[pri:0, instance:io.swagger.petstore.TestAPIPetStore@11bd0f3b]" started-at="2021-01-24T18:43:13 BRT" name="postUser" finished-at="2021-01-24T18:43:22 BRT" duration-ms="9467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postUser -->
+        <test-method signature="postPet()[pri:1, instance:io.swagger.petstore.TestAPIPetStore@11bd0f3b]" started-at="2021-01-24T18:43:22 BRT" name="postPet" finished-at="2021-01-24T18:43:29 BRT" duration-ms="6806" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postPet -->
+        <test-method signature="placeOrder()[pri:3, instance:io.swagger.petstore.TestAPIPetStore@11bd0f3b]" started-at="2021-01-24T18:43:29 BRT" name="placeOrder" finished-at="2021-01-24T18:43:35 BRT" duration-ms="6422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method signature="replaceOrder()[pri:4, instance:io.swagger.petstore.TestAPIPetStore@11bd0f3b]" started-at="2021-01-24T18:43:35 BRT" name="replaceOrder" finished-at="2021-01-24T18:43:42 BRT" duration-ms="6391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- replaceOrder -->
+        <test-method signature="getPet()[pri:5, instance:io.swagger.petstore.TestAPIPetStore@11bd0f3b]" started-at="2021-01-24T18:43:42 BRT" name="getPet" finished-at="2021-01-24T18:43:42 BRT" duration-ms="701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPet -->
+        <test-method signature="getUser()[pri:5, instance:io.swagger.petstore.TestAPIPetStore@11bd0f3b]" started-at="2021-01-24T18:43:42 BRT" name="getUser" finished-at="2021-01-24T18:43:43 BRT" duration-ms="626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUser -->
+      </class> <!-- io.swagger.petstore.TestAPIPetStore -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
